@@ -1,11 +1,11 @@
 # Great_JATE
-This is a student programing project demonstrating Progressive Web Application (PWA) facility.  
+This is a student programing project demonstrating Progressive Web Application (PWA) facilities.  
 
 ![Title Screen](./ReadMe/fig_1.png)  
 
 ## Introduction  
 
-J.A.T.E (Just Another Text Editor) is a single page text editor application that runs in the browser and meets Progressive Web Application (PWA) criteria, that is - works offline, may be installed, and mplements an "app shell" architecture. Additionally, it incorporates redundant data assurance features including browser local storage and indexedDB.  
+J.A.T.E (Just Another Text Editor) is a single page text editor application that runs in the browser and meets Progressive Web Application (PWA) criteria, that is - works offline, may be installed, and implements an "app shell" architecture. Additionally, it incorporates redundant data assurance features including browser local storage and IndexedDB.  
 
 ## Links  
 
@@ -18,7 +18,7 @@ The Heroku deployment: https://tanners-jate.herokuapp.com/.
 
 - Employs an IndexedDB and implements both GET and PUT methods.
 
-- Saves content from the text editor automatically user focused changes away from the application window.
+- Saves content from the text editor automatically when user focused changes away from the application window.
 
 ## Technology
 
@@ -30,8 +30,11 @@ The Heroku deployment: https://tanners-jate.herokuapp.com/.
 
 - _Workbox_  service worker that caches static assets.
 
+## Routine Usage
+
+Just click on the link or the PWA shortcut. Then you type, delete, cut and paste like you do. There is no saving; that's always done automatically, when your click away from the window or close the application. It's always there when you come back.
 
 ## License 
 
-All materials in this repository are copyrighted bt Trilogy Education Services, LLC:   
+All materials in this repository other than this document are copyrighted bt Trilogy Education Services, LLC:   
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
