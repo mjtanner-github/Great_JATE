@@ -26,7 +26,7 @@ The Heroku deployment: https://tanners-jate.herokuapp.com/.
 
 - _Webpack_ application component bundling.
 
-- _WebpackPwaManifest_ Application to generated manifest.json.
+- _WebpackPwaManifest_ application to generated manifest.json.
 
 - _Workbox_  service worker that caches static assets.
 
