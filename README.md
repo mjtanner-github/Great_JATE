@@ -9,7 +9,7 @@ J.A.T.E (Just Another Text Editor) is a single page text editor application that
 
 ## Links  
 
-The Git Repository containing this README file: https://github.com/mjtanner-github/Great_JATE.   
+The Git Repository containing this porject code and this README file: https://github.com/mjtanner-github/Great_JATE.   
 The Heroku deployment: https://tanners-jate.herokuapp.com/.
 
 ## Features
